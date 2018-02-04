@@ -1,0 +1,163 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 17:39:23 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 6828@AsusX54H
+
+[2017-04-03 17:40:23 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 6828@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 17:50:32 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 379-384)
+
+[2017-04-03 17:50:32 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 7364@AsusX54H
+
+[2017-04-03 17:53:19 #3 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 7364@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 18:06:51 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 398-400)
+
+[2017-04-03 18:06:52 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 1536@AsusX54H
+
+[2017-04-03 18:07:29 #3 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 1536@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 18:17:25 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 403-403)
+
+[2017-04-03 18:17:25 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 6120@AsusX54H
+
+[2017-04-03 18:17:36 #3 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 6120@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 18:18:03 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 4536@AsusX54H
+
+[2017-04-03 18:18:21 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 4536@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 20:32:10 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 412-412)
+
+[2017-04-03 20:32:10 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 7996@AsusX54H
+
+[2017-04-03 20:32:37 #3 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 7996@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 21:46:22 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 5536@AsusX54H
+
+[2017-04-03 21:46:35 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 5536@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 22:22:35 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 423-423)
+
+[2017-04-03 22:22:35 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 6772@AsusX54H
+
+[2017-04-03 22:22:59 #3 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 6772@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 22:31:14 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 427-429)
+
+[2017-04-03 22:31:15 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 5624@AsusX54H
+
+[2017-04-03 22:31:28 #3 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 5624@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 22:33:06 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 8776@AsusX54H
+
+[2017-04-03 22:33:29 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 8776@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 22:47:33 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 9004@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 22:48:00 #1 explorer] 
+[ObjectDB 2.6.9_09] javax.persistence.PersistenceException
+Attempt to open a database file 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.d(MSG.java:62)
+	at com.objectdb.o.LFL.G(LFL.java:939)
+	at com.objectdb.o.LFL.B(LFL.java:885)
+	at com.objectdb.o.LFL.B(LFL.java:794)
+	at com.objectdb.o.SFL.<init>(SFL.java:235)
+	at com.objectdb.o.MST.<init>(MST.java:123)
+	at com.objectdb.o.MST.aN(MST.java:105)
+	at com.objectdb.o.MSF.Vn(MSF.java:188)
+	at com.objectdb.o.OMF.an(OMF.java:782)
+	at com.objectdb.jpa.EMF.an(EMF.java:131)
+	at com.objectdb.o.OMF.am(OMF.java:693)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:150)
+	... 17 more
+
+[2017-04-03 22:48:08 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 9004@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 22:52:36 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 448-452)
+
+[2017-04-03 22:52:36 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 5032@AsusX54H
+
+[2017-04-03 22:53:33 #3 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 5032@AsusX54H
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-03 23:00:51 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 496-497)
+
+[2017-04-03 23:00:51 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 9072@AsusX54H
+
+[2017-04-03 23:03:02 #3 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 9072@AsusX54H
+

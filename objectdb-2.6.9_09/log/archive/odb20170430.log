@@ -1,0 +1,485 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 10:25:21 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 6184@DESKTOP-0QL47DR
+
+[2017-04-30 10:25:30 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 6184@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 10:25:43 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 9872@DESKTOP-0QL47DR
+
+[2017-04-30 10:26:02 #2 explorer] 
+[ObjectDB 2.6.9_09] java.lang.IllegalArgumentException
+Attempt to lock a new (non stored yet) entity object (error 635)
+	at javax.swing.JTable.setValueAt(Unknown Source)
+	at javax.swing.JTable.editingStopped(Unknown Source)
+	at javax.swing.AbstractCellEditor.fireEditingStopped(Unknown Source)
+	at javax.swing.DefaultCellEditor$EditorDelegate.stopCellEditing(Unknown Source)
+	at javax.swing.DefaultCellEditor.stopCellEditing(Unknown Source)
+	at javax.swing.plaf.basic.BasicTableUI$Actions.actionPerformed(Unknown Source)
+	at javax.swing.SwingUtilities.notifyAction(Unknown Source)
+	at javax.swing.JComponent.processKeyBinding(Unknown Source)
+	at javax.swing.JTable.processKeyBinding(Unknown Source)
+	at javax.swing.JComponent.processKeyBindings(Unknown Source)
+	at javax.swing.JComponent.processKeyEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.KeyboardFocusManager.redispatchEvent(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.dispatchEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+[2017-04-30 10:26:12 #3 explorer] 
+[ObjectDB 2.6.9_09] java.lang.IllegalArgumentException
+Attempt to lock a new (non stored yet) entity object (error 635)
+	at javax.swing.JTable.setValueAt(Unknown Source)
+	at javax.swing.JTable.editingStopped(Unknown Source)
+	at javax.swing.AbstractCellEditor.fireEditingStopped(Unknown Source)
+	at javax.swing.DefaultCellEditor$EditorDelegate.stopCellEditing(Unknown Source)
+	at javax.swing.DefaultCellEditor.stopCellEditing(Unknown Source)
+	at javax.swing.plaf.basic.BasicTableUI$Handler.mousePressed(Unknown Source)
+	at java.awt.AWTEventMulticaster.mousePressed(Unknown Source)
+	at java.awt.AWTEventMulticaster.mousePressed(Unknown Source)
+	at java.awt.AWTEventMulticaster.mousePressed(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+[2017-04-30 10:26:25 #4 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 9872@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 10:26:27 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 9860@DESKTOP-0QL47DR
+
+[2017-04-30 10:26:37 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 9860@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 10:58:13 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 528-529)
+
+[2017-04-30 10:58:13 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 5304@DESKTOP-0QL47DR
+
+[2017-04-30 11:01:12 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 5304@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 12:01:27 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 534-534)
+
+[2017-04-30 12:01:27 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 4268@DESKTOP-0QL47DR
+
+[2017-04-30 12:02:09 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 4268@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 12:18:57 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 539-541)
+
+[2017-04-30 12:18:57 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 7056@DESKTOP-0QL47DR
+
+[2017-04-30 12:20:01 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 7056@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 13:41:21 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 2232@DESKTOP-0QL47DR
+
+[2017-04-30 13:41:39 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 2232@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 13:42:26 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 506-506)
+
+[2017-04-30 13:42:26 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 7056@DESKTOP-0QL47DR
+
+[2017-04-30 13:42:36 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 7056@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 13:58:25 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 507-512)
+
+[2017-04-30 13:58:25 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 1072@DESKTOP-0QL47DR
+
+[2017-04-30 13:58:43 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 1072@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 16:41:09 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 10192@DESKTOP-0QL47DR
+
+[2017-04-30 16:41:33 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 10192@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 16:55:54 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 522-523)
+
+[2017-04-30 16:55:54 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 6992@DESKTOP-0QL47DR
+
+[2017-04-30 16:56:20 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 6992@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 17:02:09 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 526-529)
+
+[2017-04-30 17:02:09 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 6252@DESKTOP-0QL47DR
+
+[2017-04-30 17:02:21 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 6252@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 17:06:09 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 7312@DESKTOP-0QL47DR
+
+[2017-04-30 17:07:01 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 7312@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 18:20:48 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 517-518)
+
+[2017-04-30 18:20:48 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 7780@DESKTOP-0QL47DR
+
+[2017-04-30 18:21:48 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 7780@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 18:51:36 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 7760@DESKTOP-0QL47DR
+
+[2017-04-30 18:51:52 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 7760@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 18:53:14 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 506-506)
+
+[2017-04-30 18:53:14 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 11652@DESKTOP-0QL47DR
+
+[2017-04-30 18:53:21 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 11652@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 18:53:23 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 2552@DESKTOP-0QL47DR
+
+[2017-04-30 18:53:31 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 2552@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 18:56:53 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 507-517)
+
+[2017-04-30 18:56:53 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 11556@DESKTOP-0QL47DR
+
+[2017-04-30 18:57:21 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 11556@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 18:57:25 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 10908@DESKTOP-0QL47DR
+
+[2017-04-30 18:57:36 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 10908@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 18:59:38 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 520-520)
+
+[2017-04-30 18:59:38 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 5392@DESKTOP-0QL47DR
+
+[2017-04-30 18:59:52 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 5392@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 19:12:24 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 5700@DESKTOP-0QL47DR
+
+[2017-04-30 19:12:41 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 5700@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 19:31:29 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 9460@DESKTOP-0QL47DR
+
+[2017-04-30 19:32:09 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 9460@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 20:34:15 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 4608@DESKTOP-0QL47DR
+
+[2017-04-30 20:34:57 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 4608@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 20:41:09 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 2496@DESKTOP-0QL47DR
+
+[2017-04-30 20:41:54 #2 explorer] 
+java.lang.IllegalArgumentException: Unexpected null argument
+	at com.objectdb.o.ERR.assertNotNull(ERR.java:232)
+	at com.objectdb.jpa.EMImpl.remove(EMImpl.java:432)
+	at com.objectdb.o.ETI.K(ETI.java:146)
+	at com.objectdb.o.ITP.D(ITP.java:456)
+	at com.objectdb.o.ITP.VQ(ITP.java:340)
+	at com.objectdb.o.RTR.VQ(RTR.java:69)
+	at com.objectdb.o.CMD.actionPerformed(CMD.java:470)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Actions.actionPerformed(Unknown Source)
+	at javax.swing.SwingUtilities.notifyAction(Unknown Source)
+	at javax.swing.JComponent.processKeyBinding(Unknown Source)
+	at javax.swing.JMenuBar.processBindingForKeyStrokeRecursive(Unknown Source)
+	at javax.swing.JMenuBar.processBindingForKeyStrokeRecursive(Unknown Source)
+	at javax.swing.JMenuBar.processBindingForKeyStrokeRecursive(Unknown Source)
+	at javax.swing.JMenuBar.processKeyBinding(Unknown Source)
+	at javax.swing.KeyboardManager.fireBinding(Unknown Source)
+	at javax.swing.KeyboardManager.fireKeyboardAction(Unknown Source)
+	at javax.swing.JComponent.processKeyBindingsForAllComponents(Unknown Source)
+	at javax.swing.JComponent.processKeyBindings(Unknown Source)
+	at javax.swing.JComponent.processKeyEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.KeyboardFocusManager.redispatchEvent(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.dispatchEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+[2017-04-30 20:42:01 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 2496@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 20:50:15 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 531-533)
+
+[2017-04-30 20:50:15 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 4672@DESKTOP-0QL47DR
+
+[2017-04-30 20:50:24 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 4672@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 20:51:46 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 6420@DESKTOP-0QL47DR
+
+[2017-04-30 20:51:59 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 6420@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 20:54:43 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 4244@DESKTOP-0QL47DR
+
+[2017-04-30 20:55:02 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 4244@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 21:00:25 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 538-538)
+
+[2017-04-30 21:00:25 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 7656@DESKTOP-0QL47DR
+
+[2017-04-30 21:01:03 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 7656@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 21:03:11 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 541-542)
+
+[2017-04-30 21:03:11 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 9708@DESKTOP-0QL47DR
+
+[2017-04-30 21:03:24 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 9708@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 21:05:10 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 11536@DESKTOP-0QL47DR
+
+[2017-04-30 21:05:19 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 11536@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 21:35:02 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 553-555)
+
+[2017-04-30 21:35:02 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 10484@DESKTOP-0QL47DR
+
+[2017-04-30 21:35:33 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 10484@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 21:38:33 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 559-560)
+
+[2017-04-30 21:38:33 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 3256@DESKTOP-0QL47DR
+
+[2017-04-30 21:38:40 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 3256@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 21:42:47 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 852@DESKTOP-0QL47DR
+
+[2017-04-30 21:42:58 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 852@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 21:49:56 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 568-570)
+
+[2017-04-30 21:49:56 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 6416@DESKTOP-0QL47DR
+
+[2017-04-30 21:50:12 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 6416@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-30 22:12:33 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 527-527)
+
+[2017-04-30 22:12:33 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 9088@DESKTOP-0QL47DR
+
+[2017-04-30 22:12:51 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 9088@DESKTOP-0QL47DR
+

@@ -1,0 +1,350 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 13:41:06 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 530-531)
+
+[2017-05-02 13:41:06 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 5348@DESKTOP-0QL47DR
+
+[2017-05-02 13:41:06 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 13:41:06 #4 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 13:41:06 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 13:41:06 #6 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 13:41:06 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 13:57:55 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 532-534)
+
+[2017-05-02 13:57:55 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 10600@DESKTOP-0QL47DR
+
+[2017-05-02 13:57:55 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 13:57:55 #4 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 13:57:55 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 13:57:55 #6 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 13:57:55 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 14:02:11 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 11172@DESKTOP-0QL47DR
+
+[2017-05-02 14:02:11 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 14:02:11 #3 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 14:02:11 #4 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 14:02:11 #5 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 14:02:11 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 14:49:45 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 8348@DESKTOP-VJCKAFD
+
+[2017-05-02 14:49:46 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 14:49:46 #3 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 14:49:46 #4 type.registry] 
+New type java.util.Vector<domain.Conversation>
+
+[2017-05-02 14:49:46 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 14:49:46 #6 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 14:49:46 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 14:53:42 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 530-531)
+
+[2017-05-02 14:53:42 #2 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 2712@DESKTOP-VJCKAFD
+
+[2017-05-02 14:53:43 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 14:53:43 #4 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 14:53:43 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 14:53:43 #6 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 14:53:43 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 14:55:58 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 8492@DESKTOP-VJCKAFD
+
+[2017-05-02 14:55:58 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 14:55:58 #3 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 14:55:58 #4 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 14:55:58 #5 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 14:55:58 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 15:13:37 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 3972@DESKTOP-VJCKAFD
+
+[2017-05-02 15:13:38 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 15:13:38 #3 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 15:13:38 #4 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 15:13:38 #5 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 15:13:38 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 15:16:19 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 7384@DESKTOP-VJCKAFD
+
+[2017-05-02 15:16:20 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 15:16:20 #3 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 15:16:20 #4 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 15:16:20 #5 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 15:16:20 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 15:23:16 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 8812@DESKTOP-VJCKAFD
+
+[2017-05-02 15:23:17 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 15:23:17 #3 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 15:23:17 #4 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 15:23:17 #5 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 15:23:17 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 15:24:11 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 537-537)
+
+[2017-05-02 15:24:11 #2 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 9328@DESKTOP-VJCKAFD
+
+[2017-05-02 15:24:11 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 15:24:11 #4 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 15:24:11 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 15:24:12 #6 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 15:24:12 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 15:25:46 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 3568@DESKTOP-VJCKAFD
+
+[2017-05-02 15:25:46 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 15:25:47 #3 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 15:25:47 #4 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 15:25:47 #5 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 15:25:47 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 17:03:06 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 540-540)
+
+[2017-05-02 17:03:06 #2 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 4640@DESKTOP-VJCKAFD
+
+[2017-05-02 17:03:06 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 17:03:06 #4 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 17:03:06 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 17:03:06 #6 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 17:03:06 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 17:04:05 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 541-541)
+
+[2017-05-02 17:04:05 #2 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 4840@DESKTOP-VJCKAFD
+
+[2017-05-02 17:04:06 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 17:04:06 #4 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 17:04:06 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 17:04:06 #6 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 17:04:06 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 17:10:06 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 542-548)
+
+[2017-05-02 17:10:07 #2 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 8468@DESKTOP-VJCKAFD
+
+[2017-05-02 17:10:07 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 17:10:07 #4 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 17:10:07 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 17:10:07 #6 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 17:10:07 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 18:47:42 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 549-550)
+
+[2017-05-02 18:47:42 #2 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 1312@DESKTOP-VJCKAFD
+
+[2017-05-02 18:47:42 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 18:47:42 #4 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 18:47:42 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 18:47:42 #6 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 18:47:42 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-02 18:57:44 #1 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 551-551)
+
+[2017-05-02 18:57:44 #2 store] 
+Database 'C:\Users\Yosiunico\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 4132@DESKTOP-VJCKAFD
+
+[2017-05-02 18:57:44 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-05-02 18:57:44 #4 type] 
+Type domain.Owner is not enhanced.
+
+[2017-05-02 18:57:44 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2017-05-02 18:57:45 #6 type] 
+Type domain.Client is not enhanced.
+
+[2017-05-02 18:57:45 #7 type] 
+Type domain.User is not enhanced.
+

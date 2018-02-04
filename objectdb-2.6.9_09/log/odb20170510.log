@@ -1,0 +1,110 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-10 14:48:31 #1 explorer] 
+[ObjectDB 2.6.9_09] javax.persistence.PersistenceException
+Recovery file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb$' does not match db file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' (error 145)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Recovery file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb$' does not match db file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb'
+	at com.objectdb.o.MSG.d(MSG.java:62)
+	at com.objectdb.o.SFL.K(SFL.java:517)
+	at com.objectdb.o.SFL.J(SFL.java:471)
+	at com.objectdb.o.SFL.<init>(SFL.java:282)
+	at com.objectdb.o.MST.<init>(MST.java:123)
+	at com.objectdb.o.MST.aN(MST.java:105)
+	at com.objectdb.o.MSF.Vn(MSF.java:188)
+	at com.objectdb.o.OMF.an(OMF.java:782)
+	at com.objectdb.jpa.EMF.an(EMF.java:131)
+	at com.objectdb.o.OMF.am(OMF.java:693)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:150)
+	... 17 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-10 14:48:54 #1 explorer] 
+[ObjectDB 2.6.9_09] javax.persistence.PersistenceException
+Recovery file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb$' does not match db file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' (error 145)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Recovery file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb$' does not match db file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb'
+	at com.objectdb.o.MSG.d(MSG.java:62)
+	at com.objectdb.o.SFL.K(SFL.java:517)
+	at com.objectdb.o.SFL.J(SFL.java:471)
+	at com.objectdb.o.SFL.<init>(SFL.java:282)
+	at com.objectdb.o.MST.<init>(MST.java:123)
+	at com.objectdb.o.MST.aN(MST.java:105)
+	at com.objectdb.o.MSF.Vn(MSF.java:188)
+	at com.objectdb.o.OMF.an(OMF.java:782)
+	at com.objectdb.jpa.EMF.an(EMF.java:131)
+	at com.objectdb.o.OMF.am(OMF.java:693)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:150)
+	... 17 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-10 14:50:13 #1 explorer] 
+[ObjectDB 2.6.9_09] javax.persistence.PersistenceException
+Recovery file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb$' does not match db file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' (error 145)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Recovery file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb$' does not match db file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb'
+	at com.objectdb.o.MSG.d(MSG.java:62)
+	at com.objectdb.o.SFL.K(SFL.java:517)
+	at com.objectdb.o.SFL.J(SFL.java:471)
+	at com.objectdb.o.SFL.<init>(SFL.java:282)
+	at com.objectdb.o.MST.<init>(MST.java:123)
+	at com.objectdb.o.MST.aN(MST.java:105)
+	at com.objectdb.o.MSF.Vn(MSF.java:188)
+	at com.objectdb.o.OMF.an(OMF.java:782)
+	at com.objectdb.jpa.EMF.an(EMF.java:131)
+	at com.objectdb.o.OMF.am(OMF.java:693)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:150)
+	... 17 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-05-10 14:50:21 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 1440@DESKTOP-0QL47DR
+
+[2017-05-10 14:50:32 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 1440@DESKTOP-0QL47DR
+

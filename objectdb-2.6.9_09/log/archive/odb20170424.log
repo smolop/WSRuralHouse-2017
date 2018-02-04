@@ -1,0 +1,75 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-24 18:45:45 #1 store] 
+Database 'C:\Users\newUser-Sbs\Dropbox\GII2\GII2.2.Second_Semester\(IS1)Ingenieria_de_Software_1\pre_Entregables\Marron3-WebService\resources\rhsOffers.odb' is opened by 8620@DESKTOP-0QL47DR
+
+[2017-04-24 18:45:54 #2 store] 
+Database 'C:\Users\newUser-Sbs\Dropbox\GII2\GII2.2.Second_Semester\(IS1)Ingenieria_de_Software_1\pre_Entregables\Marron3-WebService\resources\rhsOffers.odb' is closed by 8620@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-24 18:47:25 #1 store] 
+Database 'C:\Users\newUser-Sbs\Dropbox\GII2\GII2.2.Second_Semester\(IS1)Ingenieria_de_Software_1\pre_Entregables\Marron3-WebService\resources\rhsOffers.odb' is opened by 4736@DESKTOP-0QL47DR
+
+[2017-04-24 18:48:32 #2 store] 
+Database 'C:\Users\newUser-Sbs\Dropbox\GII2\GII2.2.Second_Semester\(IS1)Ingenieria_de_Software_1\pre_Entregables\Marron3-WebService\resources\rhsOffers.odb' is closed by 4736@DESKTOP-0QL47DR
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-24 20:27:55 #1 store] 
+Database 'C:\Users\newUser-Sbs\Dropbox\GII2\GII2.2.Second_Semester\(IS1)Ingenieria_de_Software_1\pre_Entregables\Marron3-WebService\resources\rhsOffers.odb' is opened by 5424@DESKTOP-0QL47DR
+
+[2017-04-24 20:33:21 #2 store] 
+Database 'C:\Users\newUser-Sbs\Dropbox\GII2\GII2.2.Second_Semester\(IS1)Ingenieria_de_Software_1\pre_Entregables\Marron3-WebService\resources\rhsOffers.odb' is closed by 5424@DESKTOP-0QL47DR
+
+[2017-04-24 20:33:21 #3 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\rhsOffers.odb' is opened by 5424@DESKTOP-0QL47DR
+
+[2017-04-24 20:33:31 #4 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\rhsOffers.odb' is closed by 5424@DESKTOP-0QL47DR
+
+[2017-04-24 20:33:32 #5 explorer] 
+[ObjectDB 2.6.9_09] javax.persistence.PersistenceException
+Failed to open file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources' (error 115)
+	at javax.swing.Timer.fireActionPerformed(Unknown Source)
+	at javax.swing.Timer$DoPostEvent.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Failed to open file 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources'
+	at com.objectdb.o.MSG.d(MSG.java:75)
+	at com.objectdb.o.LFL.M(LFL.java:1204)
+	at com.objectdb.o.LFL.B(LFL.java:899)
+	at com.objectdb.o.LFL.B(LFL.java:794)
+	at com.objectdb.o.SFL.<init>(SFL.java:235)
+	at com.objectdb.o.MST.<init>(MST.java:123)
+	at com.objectdb.o.MST.aN(MST.java:105)
+	at com.objectdb.o.MSF.Vn(MSF.java:188)
+	at com.objectdb.o.OMF.an(OMF.java:782)
+	at com.objectdb.jpa.EMF.an(EMF.java:131)
+	at com.objectdb.o.OMF.am(OMF.java:693)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:150)
+	... 18 more
+Caused by: java.io.FileNotFoundException: C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources (Access is denied)
+	at java.io.RandomAccessFile.open(Native Method)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at com.objectdb.o.LFL.B(LFL.java:882)
+	... 27 more
+
+[2017-04-24 20:34:36 #6 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 5424@DESKTOP-0QL47DR
+
+[2017-04-24 20:34:57 #7 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is closed by 5424@DESKTOP-0QL47DR
+

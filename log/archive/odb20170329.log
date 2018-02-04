@@ -1,0 +1,57 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-03-29 18:40:07 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 307-308)
+
+[2017-03-29 18:40:07 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 528@AsusX54H
+
+[2017-03-29 18:40:07 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-03-29 18:40:07 #4 type] 
+Type domain.Owner is not enhanced.
+
+[2017-03-29 18:40:07 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2017-03-29 18:40:07 #6 type] 
+Type domain.Client is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-03-29 18:41:32 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 309-310)
+
+[2017-03-29 18:41:32 #2 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 10180@AsusX54H
+
+[2017-03-29 18:41:32 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-03-29 18:41:32 #4 type] 
+Type domain.Owner is not enhanced.
+
+[2017-03-29 18:41:32 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2017-03-29 18:41:32 #6 type] 
+Type domain.Client is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-03-29 18:44:02 #1 store] 
+Database 'C:\Users\rivas\git\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 6520@AsusX54H
+
+[2017-03-29 18:44:02 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-03-29 18:44:02 #3 type] 
+Type domain.Owner is not enhanced.
+
+[2017-03-29 18:44:02 #4 type] 
+Type domain.Offer is not enhanced.
+
+[2017-03-29 18:44:02 #5 type] 
+Type domain.Client is not enhanced.
+

@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-29 23:07:12 #1 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' has been recovered (tr. 517-518)
+
+[2017-04-29 23:07:12 #2 store] 
+Database 'C:\Users\newUser-Sbs\bit_bucket\wsruralhouse-2017\resources\ruralHouses.odb' is opened by 7120@DESKTOP-0QL47DR
+
+[2017-04-29 23:07:12 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-04-29 23:07:12 #4 type] 
+Type domain.Owner is not enhanced.
+
+[2017-04-29 23:07:12 #5 type.registry] 
+New type domain.Conversation
+
+[2017-04-29 23:07:12 #6 type] 
+Type domain.Offer is not enhanced.
+
+[2017-04-29 23:07:12 #7 type.registry] 
+New type java.util.Vector<domain.Owner>
+
+[2017-04-29 23:07:12 #8 type.registry] 
+New type java.util.Vector<domain.Client>
+
+[2017-04-29 23:07:12 #9 type.registry] 
+New type java.util.Vector<domain.User>
+
+[2017-04-29 23:07:12 #10 type] 
+Type domain.Client is not enhanced.
+
+[2017-04-29 23:07:12 #11 type] 
+Type domain.User is not enhanced.
+
